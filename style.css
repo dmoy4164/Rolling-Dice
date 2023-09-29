@@ -1,0 +1,21 @@
+
+body{
+    background-color:gainsboro;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+span{
+    display:flex;
+    flex-direction:column;
+    text-align: center;
+}
+img{
+    width:20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    margin:5px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
